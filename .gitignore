@@ -53,3 +53,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# additions
+.idea/
+target/
